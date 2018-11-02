@@ -1,6 +1,6 @@
 
 ### 测试地址：
-[视图加载] (http://192.111.111.221/yiibasic/web/index.php?r=demo/test&param=hello,yii)
+[视图加载](http://192.111.111.221/yiibasic/web/index.php?r=demo/test&param=hello,yii)
 [模型视图综合demo](http://192.111.111.221/yiibasic/web/index.php?r=demo/form&name=%E7%A8%8E%E5%9B%BD%E7%BA%A2&email=1126637138@163.com)
 
 <p align="center">
